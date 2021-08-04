@@ -7,12 +7,6 @@
 
 I'm an Mid Frontend Engineer with four years of experience. I'm fascinated by building web applications with high performance, scalability, and attractive interface and the experience they provide to users. My goal is to make difference in how users interact with companies through their platforms, thus improving the experience of those who are browsing and increasing the company's conversion rates.
 
-**Work**<br>
-**Serve**<br>
-**Be strong**<br>
-**Dont perturb**<br>
-
-#
 
 ## Languages and tools I've worked
 
